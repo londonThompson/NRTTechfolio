@@ -1,18 +1,20 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "NRT Trainee",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am an NRT DESCARTS trainee studying for a MS in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "name": "London Thompson, Ed.D.",
+    "label": "NRT Faculty, Program Coordinator",
+    "picture": "https://drive.google.com/file/d/1-z7L9FCrGmOXb7dCdTIaojidiSOgPwTl/view?usp=drive_link",
+    "email": "london.thompson@hawaii.edu",
+    "phone": "808-445-2963",
+    "website": "https://www.linkedin.com/in/blisstunes/",
+    "summary": "London Thompson Ed.D., now serving as the Executive Director of Forward Equity Lab, a consultancy dedicated to education, research, and fostering diversity-driven innovation for organizational success, brings a wealth of experience to this role. As coordinator for the DESCARTES National Science Foundation (NSF) Traineeship at the University of Hawaii at Manoa within the College of Engineering, Dr. Thompson directs an innovative Traineeship for Masters and PhD students. Additionally, Dr. Thompson holds a adjunct faculty position in Educational Leadership at Purdue Global University.
+
+Hailing from Philadelphia, Dr. Thompson is a proud alumnus of both The University of Hawaii at Manoa (Education Administration, 2019) and Drexel University (Educational Leadership and Management/Athletic Administration, 2023). His extensive background in higher education fuels a diverse research agenda aimed at advancing knowledge and fostering equity across all societal realms. This agenda encompasses enhancing the higher education experience for both students and educators, facilitating educational transitions, empowering student-athletes, and addressing disparities in college athletics and STEM fields.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "", "url": "http://github.com/changeme" },
+      { "network": "linkedin", "username": "blisstunes", "url": "http://linkedin.com/in/changeme" },
+      { "network": "twitter", "username": "", "url": "http://twitter.com/changeme" },
+      { "network": "instagram", "username": "", "url": "http://instagram.com/changeme" }
     ]
   },
   "interests": [
