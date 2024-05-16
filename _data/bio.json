@@ -17,24 +17,53 @@ Hailing from Philadelphia, Dr. Thompson is a proud alumnus of both The Universit
       { "network": "instagram", "username": "", "url": "http://instagram.com/changeme" }
     ]
   },
-  "interests": [
-    { "name": "Neuromorphic Analytics" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
-  ],
-  "skills": [
-    {
-      "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
-    },
-    {
-      "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
-    }
-  ],
   "education": [
+    {
+      "institution": "Harvard Business School/Harvard Graduate School of Education",
+      "area": "Certificate in School Managment and Leadership",
+      "studyType": "Certificate",
+      "startDate": "2023",
+      "endDate": "Present",
+      "courses": [
+      ]
+    }
+  ] {
+      "institution": "Brown School of Professional Studies",
+      "area": "Certificate in School Managment and Leadership",
+      "studyType": "Certificate",
+      "startDate": "2024",
+      "endDate": "2024",
+      "courses": [
+      ]
+    }
+  [
+    {
+      "institution": "Drexel University",
+      "area": "Doctor of Educaiton, Educational Leadershiop and Managment",
+      "studyType": "Ed.D.",
+      "startDate": "2020",
+      "endDate": "2023",
+      "courses": [
+      ]
+      [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Master of Education, Education Administration",
+      "studyType": "ME.D.",
+      "startDate": "2017",
+      "endDate": "2019",
+      "courses": [
+      ]
+      [
+    {
+      "institution": "University of Hawaii - West Oahu, Kapolei, HI",
+      "area": "Business Administration, International Marketing",
+      "studyType": "BA",
+      "startDate": "2014",
+      "endDate": "2016",
+      "courses": [
+      ]
+      [
     {
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2018)",
@@ -42,9 +71,7 @@ Hailing from Philadelphia, Dr. Thompson is a proud alumnus of both The Universit
       "startDate": "2013-09-01",
       "endDate": "Present",
       "courses": [
-      ]
-    }
-  ],
+      ],
   "work": [
     {
       "company": "UH Manoa Board of Publications",
