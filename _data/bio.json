@@ -6,72 +6,87 @@
     "email": "london.thompson@hawaii.edu",
     "phone": "808-445-2963",
     "website": "https://www.linkedin.com/in/blisstunes/",
-    "summary": "London Thompson Ed.D., now serving as the Executive Director of Forward Equity Lab, a consultancy dedicated to education, research, and fostering diversity-driven innovation for organizational success, brings a wealth of experience to this role. As coordinator for the DESCARTES National Science Foundation (NSF) Traineeship at the University of Hawaii at Manoa within the College of Engineering, Dr. Thompson directs an innovative Traineeship for Masters and PhD students. Additionally, Dr. Thompson holds a adjunct faculty position in Educational Leadership at Purdue Global University.
-
-Hailing from Philadelphia, Dr. Thompson is a proud alumnus of both The University of Hawaii at Manoa (Education Administration, 2019) and Drexel University (Educational Leadership and Management/Athletic Administration, 2023). His extensive background in higher education fuels a diverse research agenda aimed at advancing knowledge and fostering equity across all societal realms. This agenda encompasses enhancing the higher education experience for both students and educators, facilitating educational transitions, empowering student-athletes, and addressing disparities in college athletics and STEM fields.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "summary": "London Thompson Ed.D., now serving as the Executive Director of Forward Equity Lab, a consultancy dedicated to education, research, and fostering diversity-driven innovation for organizational success, brings a wealth of experience to this role. As coordinator for the DESCARTES National Science Foundation (NSF) Traineeship at the University of Hawaii at Manoa within the College of Engineering, Dr. Thompson directs an innovative Traineeship for Masters and PhD students. Additionally, Dr. Thompson holds an adjunct faculty position in Educational Leadership at Purdue Global University. Hailing from Philadelphia, Dr. Thompson is a proud alumnus of both The University of Hawaii at Manoa (Education Administration, 2019) and Drexel University (Educational Leadership and Management/Athletic Administration, 2023). His extensive background in higher education fuels a diverse research agenda aimed at advancing knowledge and fostering equity across all societal realms. This agenda encompasses enhancing the higher education experience for both students and educators, facilitating educational transitions, empowering student-athletes, and addressing disparities in college athletics and STEM fields.",
+    "location": {
+      "address": "",
+      "postalCode": "96822",
+      "city": "Honolulu",
+      "countryCode": "USA",
+      "region": "Hawaii"
+    },
     "profiles": [
-      { "network": "github", "username": "", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "blisstunes", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "", "url": "http://instagram.com/changeme" }
+      {
+        "network": "github",
+        "username": "",
+        "url": "http://github.com/changeme"
+      },
+      {
+        "network": "linkedin",
+        "username": "blisstunes",
+        "url": "http://linkedin.com/in/changeme"
+      },
+      {
+        "network": "twitter",
+        "username": "",
+        "url": "http://twitter.com/changeme"
+      },
+      {
+        "network": "instagram",
+        "username": "",
+        "url": "http://instagram.com/changeme"
+      }
     ]
   },
   "education": [
     {
       "institution": "Harvard Business School/Harvard Graduate School of Education",
-      "area": "Certificate in School Managment and Leadership",
+      "area": "Certificate in School Management and Leadership",
       "studyType": "Certificate",
       "startDate": "2023",
       "endDate": "Present",
-      "courses": [
-      ]
-    }
-  ] {
+      "courses": []
+    },
+    {
       "institution": "Brown School of Professional Studies",
-      "area": "Certificate in School Managment and Leadership",
+      "area": "Certificate in School Management and Leadership",
       "studyType": "Certificate",
       "startDate": "2024",
       "endDate": "2024",
-      "courses": [
-      ]
-    }
-  [
+      "courses": []
+    },
     {
       "institution": "Drexel University",
-      "area": "Doctor of Educaiton, Educational Leadershiop and Managment",
+      "area": "Doctor of Education, Educational Leadership and Management",
       "studyType": "Ed.D.",
       "startDate": "2020",
       "endDate": "2023",
-      "courses": [
-      ]
-      [
+      "courses": []
+    },
     {
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Master of Education, Education Administration",
       "studyType": "ME.D.",
       "startDate": "2017",
       "endDate": "2019",
-      "courses": [
-      ]
-      [
+      "courses": []
+    },
     {
       "institution": "University of Hawaii - West Oahu, Kapolei, HI",
       "area": "Business Administration, International Marketing",
       "studyType": "BA",
       "startDate": "2014",
       "endDate": "2016",
-      "courses": [
-      ]
-      [
+      "courses": []
+    },
     {
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2018)",
       "studyType": "M.S.",
       "startDate": "2013-09-01",
       "endDate": "Present",
-      "courses": [
-      ],
+      "courses": []
+    }
+  ],
   "work": [
     {
       "company": "UH Manoa Board of Publications",
@@ -136,7 +151,7 @@ Hailing from Philadelphia, Dr. Thompson is a proud alumnus of both The Universit
       "title": "First place",
       "date": "2015",
       "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "summary": "My team won first place in 2015. See my portfolio site for more details."
     }
   ],
   "references": [
