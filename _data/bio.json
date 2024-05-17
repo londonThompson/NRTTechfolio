@@ -16,16 +16,16 @@
     ]
   },
   "interests": [
-    { "name": "Neuromorphic Analytics" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "" },
+    { "name": "" },
+    { "name": "" },
+    { "name": "" },
+    { "name": "" }
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "name": "",
+      "keywords": [ "" ]
     },
     {
       "name": "Toolsets/OS",
@@ -40,19 +40,15 @@
       "startDate": "2023",
       "endDate": "present",
       "courses": []
-    }
-  ],
-  "education": [
+    },
     {
       "institution": "Brown School of Professional Studies",
-      "area": "Certifictae in Appied DEI",
+      "area": "Certificate in Applied DEI",
       "studyType": "Certificate",
       "startDate": "2024",
       "endDate": "2024",
       "courses": []
-    }
-  ],
-  "education": [
+    },
     {
       "institution": "Drexel University, Philadelphia, PA.",
       "area": "Doctor of Education, Educational Leadership and Management",
@@ -60,9 +56,7 @@
       "startDate": "2020",
       "endDate": "2023",
       "courses": []
-    }
-  ],
-  "education": [
+    },
     {
       "institution": "The University of Hawai'i at Manoa",
       "area": "M.Ed., Education, Concentration - Educational Administration-Higher Education",
@@ -70,9 +64,7 @@
       "startDate": "2017",
       "endDate": "2019",
       "courses": []
-    }
-  ],
-  "education": [
+    },
     {
       "institution": "The University of Hawai'i West Oahu",
       "area": "B.A., Business Administration, Concentration - Marketing",
@@ -84,7 +76,7 @@
   ],
   "work": [
     {
-      "company": "The University of Hawai'i at Manoa, Collge fo Engineering",
+      "company": "The University of Hawai'i at Manoa, College of Engineering",
       "position": "Program Coordinator, NSF Research and Traineeship",
       "website": "",
       "startDate": "01/08/2024",
