@@ -6,7 +6,7 @@
     "email": "london.thompson@hawaii.edu",
     "phone": "808-445-2963",
     "website": "https://www.linkedin.com/in/blisstunes/",
-    "summary": "London Thompson Ed.D., now serving as the Executive Director of Forward Equity Lab, a consultancy dedicated to education, research, and fostering diversity-driven innovation for organizational success, brings a wealth of experience to this role. As coordinator for the DESCARTES National Science Foundation (NSF) Traineeship at the University of Hawaii at Manoa within the College of Engineering, Dr. Thompson directs an innovative Traineeship for Masters and PhD students. Additionally, Dr. Thompson holds a adjunct faculty position in Educational Leadership at Purdue Global University.\n\nHailing from Philadelphia, Dr. Thompson is a proud alumnus of both The University of Hawaii at Manoa (Education Administration, 2019) and Drexel University (Educational Leadership and Management/Athletic Administration, 2023). His extensive background in higher education fuels a diverse research agenda aimed at advancing knowledge and fostering equity across all societal realms. This agenda encompasses enhancing the higher education experience for both students and educators, facilitating educational transitions, empowering student-athletes, and addressing disparities in college athletics and STEM fields.",
+    "summary": "London Thompson, Ed.D., is the Executive Director of Forward Equity Lab and coordinates the DESCARTES NSF Research Traineeship at the University of Hawaii at Manoa, supporting Masters and PhD students. He also serves as faculty in Educational Leadership at Purdue Global University. His work focuses on promoting equity in higher education.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "", "url": "http://github.com/changeme" },
@@ -34,84 +34,124 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "M.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
+      "institution": "Harvard Business School/Harvard Graduate School of Education",
+      "area": "Certificate School Managment & Leadership (CSML)",
+      "studyType": "Certificate",
+      "startDate": "2023",
+      "endDate": "present",
+      "courses": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Brown School of Professional Studies",
+      "area": "Certifictae in Appied DEI",
+      "studyType": "Certificate",
+      "startDate": "2024",
+      "endDate": "2024",
+      "courses": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Drexel University, Philadelphia, PA.",
+      "area": "Doctor of Education, Educational Leadership and Management",
+      "studyType": "Doctorate",
+      "startDate": "2020",
+      "endDate": "2023",
+      "courses": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "The University of Hawai'i at Manoa",
+      "area": "M.Ed., Education, Concentration - Educational Administration-Higher Education",
+      "studyType": "M.Ed.",
+      "startDate": "2017",
+      "endDate": "2019",
+      "courses": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "The University of Hawai'i West Oahu",
+      "area": "B.A., Business Administration, Concentration - Marketing",
+      "studyType": "BA",
+      "startDate": "2014",
+      "endDate": "2016",
       "courses": []
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "The University of Hawai'i at Manoa, Collge fo Engineering",
+      "position": "Program Coordinator, NSF Research and Traineeship",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "01/08/2024",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "",
+        ""
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "",
+      "position": "t",
+      "website": "",
+      "startDate": "",
+      "endDate": "",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "",
+        ""
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "",
+      "website": "",
+      "position": "",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "",
+        ""
       ]
     },
     {
       "organization": "",
       "website": "",
-      "position": "Professional organization involvement",
+      "position": "",
       "startDate": "",
       "endDate": "",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "",
+        "",
+        "3"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "",
+      "date": "",
+      "awarder": "",
+      "summary": ""
     },
     {
       "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "date": "",
+      "awarder": "",
+      "summary": ""
     }
   ],
   "references": [
     {
-      "name": "Available upon request"
+      "name": ""
     }
   ]
 }
