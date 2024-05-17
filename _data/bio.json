@@ -1,4 +1,3 @@
-
 {
   "basics": {
     "name": "London Thompson, Ed.D.",
@@ -7,9 +6,7 @@
     "email": "london.thompson@hawaii.edu",
     "phone": "808-445-2963",
     "website": "https://www.linkedin.com/in/blisstunes/",
-    "summary": "London Thompson Ed.D., now serving as the Executive Director of Forward Equity Lab, a consultancy dedicated to education, research, and fostering diversity-driven innovation for organizational success, brings a wealth of experience to this role. As coordinator for the DESCARTES National Science Foundation (NSF) Traineeship at the University of Hawaii at Manoa within the College of Engineering, Dr. Thompson directs an innovative Traineeship for Masters and PhD students. Additionally, Dr. Thompson holds a adjunct faculty position in Educational Leadership at Purdue Global University.
-
-Hailing from Philadelphia, Dr. Thompson is a proud alumnus of both The University of Hawaii at Manoa (Education Administration, 2019) and Drexel University (Educational Leadership and Management/Athletic Administration, 2023). His extensive background in higher education fuels a diverse research agenda aimed at advancing knowledge and fostering equity across all societal realms. This agenda encompasses enhancing the higher education experience for both students and educators, facilitating educational transitions, empowering student-athletes, and addressing disparities in college athletics and STEM fields.",
+    "summary": "London Thompson Ed.D., now serving as the Executive Director of Forward Equity Lab, a consultancy dedicated to education, research, and fostering diversity-driven innovation for organizational success, brings a wealth of experience to this role. As coordinator for the DESCARTES National Science Foundation (NSF) Traineeship at the University of Hawaii at Manoa within the College of Engineering, Dr. Thompson directs an innovative Traineeship for Masters and PhD students. Additionally, Dr. Thompson holds a adjunct faculty position in Educational Leadership at Purdue Global University.\n\nHailing from Philadelphia, Dr. Thompson is a proud alumnus of both The University of Hawaii at Manoa (Education Administration, 2019) and Drexel University (Educational Leadership and Management/Athletic Administration, 2023). His extensive background in higher education fuels a diverse research agenda aimed at advancing knowledge and fostering equity across all societal realms. This agenda encompasses enhancing the higher education experience for both students and educators, facilitating educational transitions, empowering student-athletes, and addressing disparities in college athletics and STEM fields.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "", "url": "http://github.com/changeme" },
@@ -42,8 +39,7 @@ Hailing from Philadelphia, Dr. Thompson is a proud alumnus of both The Universit
       "studyType": "M.S.",
       "startDate": "2013-09-01",
       "endDate": "Present",
-      "courses": [
-      ]
+      "courses": []
     }
   ],
   "work": [
