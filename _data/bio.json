@@ -7,12 +7,34 @@
     "phone": "808-445-2963",
     "website": "https://www.linkedin.com/in/blisstunes/",
     "summary": "London Thompson, Ed.D., is the Executive Director of Forward Equity Lab and coordinates the DESCARTES NSF Research Traineeship at the University of Hawaii at Manoa, supporting Masters and PhD students. He also serves as faculty in Educational Leadership at Purdue Global University. His work focuses on promoting equity in higher education.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "location": { 
+      "address": "", 
+      "postalCode": "96822", 
+      "city": "Honolulu", 
+      "countryCode": "USA", 
+      "region": "Hawaii" 
+    },
     "profiles": [
-      { "network": "github", "username": "", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "blisstunes", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "", "url": "http://instagram.com/changeme" }
+      { 
+        "network": "github", 
+        "username": "", 
+        "url": "http://github.com/changeme" 
+      },
+      { 
+        "network": "linkedin", 
+        "username": "blisstunes", 
+        "url": "http://linkedin.com/in/changeme" 
+      },
+      { 
+        "network": "twitter", 
+        "username": "", 
+        "url": "http://twitter.com/changeme" 
+      },
+      { 
+        "network": "instagram", 
+        "username": "", 
+        "url": "http://instagram.com/changeme" 
+      }
     ]
   },
   "interests": [
@@ -35,7 +57,7 @@
   "education": [
     {
       "institution": "Harvard Business School/Harvard Graduate School of Education",
-      "area": "Certificate School Managment & Leadership (CSML)",
+      "area": "Certificate in School Management & Leadership (CSML)",
       "studyType": "Certificate",
       "startDate": "2023",
       "endDate": "present",
